@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Andro79/urban-system/issues"
   },
-  "homepage": "https://github.com/Andro79/urban-system#readme"
+  "homepage": "https://github.com/Andro79/urban-system#readme",
+  "dependencies": {
+    "mathjs": "^4.0.1"
+  }
 }
